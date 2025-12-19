@@ -1,0 +1,7 @@
+{
+  "name": "Strike Force Gemini",
+  "description": "A high-octane 3D FPS experience where you navigate a tactical environment, scavenge for advanced weaponry in crates, and neutralize AI threats.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
